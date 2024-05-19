@@ -1,0 +1,2 @@
+# c-proje
+Bilgi yarismasi
