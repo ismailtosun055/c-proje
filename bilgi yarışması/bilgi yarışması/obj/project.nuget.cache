@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKlD4O9KZP2DbLjivhP+iuvg8Z90JW59qe1JwmqAu1/bB9vbWAyXOW2rH89xVjPuh0P39r4AWx0CCa0+phyBrw==",
+  "success": true,
+  "projectFilePath": "D:\\KODLAR\\kodlar\\kodlar\\C#\\Proje\\bilgi yarışması\\bilgi yarışması\\bilgi yarışması.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
